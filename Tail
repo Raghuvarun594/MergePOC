@@ -6,5 +6,4 @@
   body {
     font-family: Georgia, "Times New Roman",
           Times, serif;
-    color: blue;
-    flag:yellow
+    color: purple;
